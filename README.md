@@ -70,4 +70,5 @@ Run program on the test dataset
     cd ParaHunter/
     cd cyanothece/
     ParaHunter.sh -a CyanothecePCC7425.faa -n CyanothecePCC7425.ffn -l ../codeml-2.ctl
+(this last command takes a few min to run)
 
